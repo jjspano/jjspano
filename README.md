@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjspano
-- 👀 I’m interested in anything related to Linux, open source, crypto, and web development.
-- 🌱 I’m currently learning HTML, CSS, and Javascript.
+- 👀 I’m interested in anything related to Linux, open source, crypto, and Python.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me josephspano01@gmail.com
 
